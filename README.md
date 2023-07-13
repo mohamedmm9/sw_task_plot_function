@@ -1,5 +1,3 @@
-![4](https://github.com/mohamedmm9/sw_task_plot_function/assets/76888049/5f199f6d-3f96-4bf2-8f4f-d23b091f2cf4)
-![Uploading 3.PNG…]()
 # Function Plotter
 
 This is a plotting application built with PySide2 and pytest-qt. It allows users to input a mathematical function and plot it within a specified range.
@@ -15,4 +13,3 @@ This is a plotting application built with PySide2 and pytest-qt. It allows users
 ## Working VS wrong examples
 
 ![4](https://github.com/mohamedmm9/sw_task_plot_function/assets/76888049/5f199f6d-3f96-4bf2-8f4f-d23b091f2cf4)
-![Uploading 3.PNG…]()
