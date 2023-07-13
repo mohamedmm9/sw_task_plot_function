@@ -12,7 +12,7 @@ This is a plotting application built with PySide2 and pytest-qt. It allows users
 
 ## Working VS wrong examples
 
-![Image Description]([https://drive.google.com/file/d/1GSH5aIJijLLTCSU5LuF8EkqV6aTZqPls/view?usp=drive_link])
+![Alt text]([https://drive.google.com/file/d/1GSH5aIJijLLTCSU5LuF8EkqV6aTZqPls/view?usp=drive_link])
 
 ![Image Description](https://example.com/image.png)
 
