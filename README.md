@@ -15,7 +15,7 @@ This is a plotting application built with PySide2 and pytest-qt. It allows users
 -first wrong example
 
 
-
+ ![Image Description](images/1.PNG)
 
 -second wrong example
 
@@ -25,8 +25,6 @@ This is a plotting application built with PySide2 and pytest-qt. It allows users
 
 -first working example
 
-
-![first working example](https://drive.google.com/file/d/1GSH5aIJijLLTCSU5LuF8EkqV6aTZqPls/view?usp=drive_link)
 
 
 -second working example
