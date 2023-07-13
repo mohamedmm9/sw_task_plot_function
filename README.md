@@ -15,20 +15,22 @@ This is a plotting application built with PySide2 and pytest-qt. It allows users
 -first wrong example
 
 
- ![Image Description](images/1.PNG)
+ ![Image Description](images/3.PNG)
 
 -second wrong example
 
 
-
-
+ ![Image Description](images/4.PNG)
 
 -first working example
 
 
-
+ ![Image Description](images/1.PNG)
+ 
 -second working example
 
+
+ ![Image Description](images/2.PNG)
 
 
 
