@@ -26,7 +26,7 @@ This is a plotting application built with PySide2 and pytest-qt. It allows users
 -first working example
 
 
-[URL=https://imgbox.com/jQLF7lmM][IMG]https://thumbs2.imgbox.com/b3/54/jQLF7lmM_t.png[/IMG][/URL]
+![first working example](https://drive.google.com/file/d/1GSH5aIJijLLTCSU5LuF8EkqV6aTZqPls/view?usp=drive_link)
 
 
 -second working example
